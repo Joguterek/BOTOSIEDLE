@@ -8,6 +8,7 @@
     "name": "Bot FIVEM"
   },
   "scripts": {
+    "dev": "node src/index.js"
     "start": "node index"
   },
   "dependencies": {
